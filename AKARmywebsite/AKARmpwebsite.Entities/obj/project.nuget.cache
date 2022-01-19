@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRlg7oneWunMEbk3oLxZM8rQMt8q9LyqDwtBiMBKncDGEAJwbbQ/0uJ0Dd/UT/vl9l3+5JnCu4PyGCwRxvyR8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Dapper Kişisel Sayfa\\AKARmywebsite\\AKARmpwebsite.Entities\\AKARmpwebsite.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

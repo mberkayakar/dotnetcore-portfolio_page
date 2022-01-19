@@ -1,0 +1,1 @@
+Bu projede ORM yapılarının en güçlülüerinden birisi olarak bilinen Dapper teknolojisi, Dapper Container mimarisi ve N-Tier mimari kullanılarak kişisel tanıtım sayfası oluşturulmuştur

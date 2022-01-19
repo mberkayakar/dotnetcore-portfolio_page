@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf164533-69a1-4057-bf2c-b763b060d497": {
+      "ProjectGuid": "cf164533-69a1-4057-bf2c-b763b060d497",
+      "DisplayName": "AKARmpwebsite.Entities",
+      "ColorIndex": 0
+    },
+    "3a05e60f-6cdc-45e6-bd5e-c63e428bff2f": {
+      "ProjectGuid": "3a05e60f-6cdc-45e6-bd5e-c63e428bff2f",
+      "DisplayName": "AKARmpwebsite.DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
